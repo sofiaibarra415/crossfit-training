@@ -1,0 +1,10 @@
+/* Ajusta el tamaño de los inputs de tiempo */
+input[type="number"] {
+    max-width: 50px;
+  }
+  
+  /* Si la descripción es larga, haz que la card se alargue */
+  .bg-white {
+    min-height: 200px;  /* Ajusta esto según el tamaño de tus descripciones */
+  }
+  
